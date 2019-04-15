@@ -1,0 +1,3 @@
+[submodule "Animals"]
+	path = Animals
+	url = git@github.com:Axxzilla/Animals.git
